@@ -14,4 +14,4 @@ Flashing Firmware: https://web.archive.org/web/20161031223553/http://developer.m
 
 Debug And Log: https://web.archive.org/web/20161102205125/http://developer.motorola.com/build/tools/debug-and-log
 
-Any download links on these pages should be able to be found in the rest of the repo with maybe a few exceptions. the files provided are unmodified and are as they showed up in the zipped download files on the website. This is provided for archive purpose only, and I do not own the code in this repo. 
+Any download links on these pages should be able to be found in the rest of the repo with maybe a few exceptions. the files provided are unmodified and are as they showed up in the zipped download files on the website. This is provided for archive purpose only, and I do not own the resources in this repo. 
