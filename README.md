@@ -15,3 +15,5 @@ Flashing Firmware: https://web.archive.org/web/20161031223553/http://developer.m
 Debug And Log: https://web.archive.org/web/20161102205125/http://developer.motorola.com/build/tools/debug-and-log
 
 Any download links on these pages should be able to be found in the rest of the repo with maybe a few exceptions. the files provided are unmodified and are as they showed up in the zipped download files on the website. This is provided for archive purpose only, and I do not own the resources in this repo. 
+
+Any repos that Motorola has made on Github I have forked, if they ever decide to nuke them on their side. My versions might have modifications for QOL, which you can see via the changelog of the respective repo
